@@ -6,7 +6,7 @@
 [![PyQt5](https://img.shields.io/badge/GUI-PyQt5-orange)](https://www.riverbankcomputing.com/software/pyqt/)
 ![GitHub Release](https://img.shields.io/github/v/release/Siamak-salimy/HMNexus)
 
-HMNexus empowers biologists, clinicians, and researchers **without programming expertise** to access The Cancer Genome Atlas (TCGA) data through an intuitive point-and-click interface. Built with **Python + PyQt5**, it supports **manifest-based parallel downloads** directly from the GDC portal—up to **4.8× faster** than standard tools—while automatically organizing files for downstream analysis.
+HMNexus empowers biologists, clinicians, and researchers **without programming expertise** to access The Cancer Genome Atlas (TCGA) data through an intuitive point-and-click interface. Built with **Python + PyQt5**, it supports **manifest-based parallel downloads** directly from the GDC portal—up to **× faster** than standard tools—while automatically organizing files for downstream analysis.
 
 
 ---
