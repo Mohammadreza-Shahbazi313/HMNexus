@@ -8,7 +8,6 @@
 
 HMNexus empowers biologists, clinicians, and researchers **without programming expertise** to access The Cancer Genome Atlas (TCGA) data through an intuitive point-and-click interface. Built with **Python + PyQt5**, it supports **manifest-based parallel downloads** directly from the GDC portal—up to **4.8× faster** than standard tools—while automatically organizing files for downstream analysis.
 
-> 📌 **Note**: HMNexus is the official name of the tool formerly referred to as "TCGADownloader" in early development.
 
 ---
 
