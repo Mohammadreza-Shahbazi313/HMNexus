@@ -8,7 +8,7 @@
 
   <a href="https://github.com/Siamak-salimy/HMNexus">
 
-    <img src="https://img.shields.io/badge/GitHub_Repo-Siamak--salimy/HMNexus-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  <img src="https://img.shields.io/badge/GitHub_Repo-Siamak--salimy/HMNexus-181717?style=for-the-                  badge&logo=github&logoColor=white" alt="GitHub Repository"/>
 
   </a>
 
@@ -16,7 +16,7 @@
 
   <a href="https://github.com/Siamak-salimy/HMNexus">
 
-    <img src="src/images/icon.ico" alt="Logo" width="80" height="80">
+  <img src="src/images/icon.ico" alt="Logo" width="80" height="80">
 
   </a>
 
@@ -24,25 +24,25 @@
 
   <p align="center">
 
-    A high-speed, code-free GUI for downloading TCGA data.
+  A high-speed, code-free GUI for downloading TCGA data.
 
-    <br />
+  <br />
 
-    <a href="https://siamak-salimy.github.io/HMNexus/"><strong>Explore the Website »</strong></a>
+  <a href="https://siamak-salimy.github.io/HMNexus/"><strong>Explore the Website »</strong></a>
 
-    <br />
+  <br />
 
-    <br />
+  <br />
 
-    <a href="https://github.com/Siamak-salimy/HMNexus/releases">View Repositoty</a>
+  <a href="https://github.com/Siamak-salimy/HMNexus/releases">View Repositoty</a>
 
-    ·
+  ·
 
-    <a href="https://github.com/Siamak-salimy/HMNexus/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Report Bug</a>
+  <a href="https://github.com/Siamak-salimy/HMNexus/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Report Bug</a>
 
-    ·
+  ·
 
-    <a href="https://github.com/Siamak-salimy/HMNexus/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=">Request Feature</a>
+  <a href="https://github.com/Siamak-salimy/HMNexus/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=">Request Feature</a>
 
   </p>
 
@@ -54,47 +54,47 @@
 
   <ol>
 
-    <li>
+  <li>
 
-      <a href="#about-the-project">About The Project</a>
+  <a href="#about-the-project">About The Project</a>
 
-      <ul>
+  <ul>
 
-        <li><a href="#built-with">Built With</a></li>
+  <li><a href="#built-with">Built With</a></li>
 
-        <li><a href="#data-source">Data Source</a></li>
+  <li><a href="#data-source">Data Source</a></li>
 
-      </ul>
+  </ul>
 
-    </li>
+  </li>
 
-    <li>
+  <li>
 
-      <a href="#getting-started">Getting Started</a>
+<a href="#getting-started">Getting Started</a>
 
-      <ul>
+<ul>
 
-        <li><a href="#prerequisites">Prerequisites</a></li>
+  <li><a href="#prerequisites">Prerequisites</a></li>
 
-        <li><a href="#installation">Installation</a></li>
+  <li><a href="#installation">Installation</a></li>
 
-      </ul>
+</ul>
 
-    </li>
+  </li>
 
-    <li><a href="#usage">Usage</a></li>
+  <li><a href="#usage">Usage</a></li>
 
-    <li><a href="#roadmap">Roadmap</a></li>
+  <li><a href="#roadmap">Roadmap</a></li>
 
-    <li><a href="#contributing">Contributing</a></li>
+  <li><a href="#contributing">Contributing</a></li>
 
-    <li><a href="#development-team">Development Team</a></li>
+  <li><a href="#development-team">Development Team</a></li>
 
-    <li><a href="#citation">Citation</a></li>
+  <li><a href="#citation">Citation</a></li>
 
-    <li><a href="#license">License</a></li>
+  <li><a href="#license">License</a></li>
 
-    <li><a href="#contact">Contact</a></li>
+  <li><a href="#contact">Contact</a></li>
 
   </ol>
 
